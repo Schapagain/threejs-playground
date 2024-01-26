@@ -1,0 +1,19 @@
+{
+  "name": "threejs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build"
+  },
+  "author": "Sandesh C.",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.12"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.160.1"
+  }
+}
